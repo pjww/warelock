@@ -1,0 +1,25 @@
+<?xml version="1.0"?>
+<data id="dark-root">
+
+    <properties>
+
+        <title val="Dark Root"/>
+        <alt-title val="Czarnoksiężny Dozorca"/>
+
+        <max-hp val="50" type="int" />
+        <spell-power val="80" type="int" />
+        <spell-wisdom val="50" type="int" />
+
+
+        <repr val="@" type="char" />
+
+    </properties>
+
+    <entity>
+
+        <base-class name="Playable" />
+        <class name="DarkRoot" />
+
+    </entity>
+
+</data>

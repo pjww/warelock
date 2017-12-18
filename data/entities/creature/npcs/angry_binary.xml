@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<data id="angry-binary">
+
+    <properties>
+
+        <title val="AngryBinary"/>
+        <alt-title val="Rozwścieczona Binarka"/>
+
+        <repr val="$" type="char" />
+
+        <words val="To *ty*! Wyślę cię do /dev/null!!! Arghhh!" />
+
+    </properties>
+
+    <entity>
+
+        <base-class name="NPC" />
+        <class name="AngryBinary" />
+
+    </entity>
+
+</data>

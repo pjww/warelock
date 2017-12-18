@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<data id="kind_executable">
+
+    <properties>
+
+        <title val="Kind Executable"/>
+        <alt-title val="Milutki uniksowy program"/>
+
+        <repr val="%" type="char" />
+
+        <words val="Witaj, podróżniku! Jak tam twój dzień? Do widzenia!" />
+
+    </properties>
+
+    <entity>
+
+        <base-class name="NPC" />
+        <class name="KindExecutable" />
+
+    </entity>
+
+</data>

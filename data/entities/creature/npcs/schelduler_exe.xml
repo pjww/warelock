@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<data id="schelduler-exe">
+
+    <properties>
+
+        <title val="schelduler.exe"/>
+        <alt-title val="schelduler.exe"/>
+
+        <max-hp val="1" type="int" />
+
+        <repr val="S" type="char" />
+
+        <words val="Witaj podróżniku. Pochodzę z zaświatów. Kiedyś byłem wielce ważną osobistością.Tutaj jestem nikim." />
+
+    </properties>
+
+    <entity>
+
+        <base-class name="NPC" />
+        <class name="ScheldulerExe" />
+
+    </entity>
+
+</data>

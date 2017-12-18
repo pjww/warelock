@@ -1,0 +1,7 @@
+.idea
+.idea/
+.vscode
+.vscode/*
+*.pyc
+*.py~
+instructions.txt

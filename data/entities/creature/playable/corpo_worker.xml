@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<data id="corpo-worker">
+
+    <properties>
+
+        <title val="Corpo Worker" />
+        <alt-title val="Człowiek z wielkiej korporacji"/>
+
+        <max-hp val="60" type="int" />
+        <spell-power val="60" type="int" />
+        <spell-wisdom val="60" type="int" />
+
+        <repr val="&amp;" type="char" />
+
+    </properties>
+
+    <entity>
+
+        <base-class name="Playable" />
+        <class name="CorpoWorker" />
+
+    </entity>
+
+</data>
